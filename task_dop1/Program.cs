@@ -23,9 +23,7 @@ FillArray(matrix);
 PrintArray(matrix);
 Console.WriteLine();
 Conv(matrix);
-Console.WriteLine();
 BubbleSort(mas);
-Console.WriteLine();
 Conv2(matrix);
 PrintArray(matrix);
 
